@@ -1,9 +1,9 @@
-# Forest Review
+# Forest Reviews
 Hello!
 
 Thanks for stopping by!
 
-#We kindly ask that you do NOT: 
+# We kindly ask that you do NOT: 
 
 - Recreate/Copy this website
 - Attempt to pass it as the official site
